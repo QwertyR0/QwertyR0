@@ -5,4 +5,4 @@ ve DOD-LANG Üzerinde Çalışıyorum
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=QwertyRcode&show_icons=true&theme=dark&title_color=51c4d3)](https://github.com/QwertyRcode/)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QwertyRcode&layout=compact)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=QwertyRcode&repo=qwerty-lib&theme=dark)](https://github.com/QwertyRcode/qwerty-lib)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=QwertyRcode&repo=qwerty-lib&theme=dark)](https://github.com/QwertyRcode/qwerty-lib)
