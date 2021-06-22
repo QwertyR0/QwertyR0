@@ -1,6 +1,7 @@
 # 👋Hello There I'm Oğuz!
-- **✨I Code For Fun At My Free Time**
+- **✨I Code For Fun At My Free Time.**
 - **🎮I Play Games.**
+- **📖My Goal is To Learn Java.**
 ---
 ## 🧰Languages and Tools:
 ![py](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
