@@ -14,4 +14,8 @@
 ![shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![vsc](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ---
+## 🧪 Languages Currently Learning:
+![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+---
 [![QwertyRcode's GitHub stats](https://github-readme-stats.vercel.app/api?username=QwertyRcode&show_icons=true&theme=dark&title_color=51c4d3)](https://github.com/QwertyRcode/)
