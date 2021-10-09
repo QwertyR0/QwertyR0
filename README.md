@@ -1,4 +1,4 @@
-# 👋Hello There I'm Oğuz!
+# 👋Hello There!
 - **✨I Code For Fun At My Free Time.**
 - **🎮I Play Games.**
 - **📖My Goal is To Learn Java.**
