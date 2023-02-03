@@ -2,6 +2,7 @@
 - **✨I Code For Fun At My Free Time.**
 - **📚I Currently Study a Lot.**
 - **📖My Goal is To Learn Java.**
+- ![More About Me!](https://qwertyr0.github.io/Personal-Website/)
 ---
 ## 🧰Languages and Tools:
 ![node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
