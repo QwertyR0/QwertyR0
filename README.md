@@ -1,6 +1,6 @@
 # 👋Hello There!
 - **✨I Code For Fun At My Free Time.**
-- **🎮I Play Games.**
+- **📚I Currently Study a Lot.**
 - **📖My Goal is To Learn Java.**
 ---
 ## 🧰Languages and Tools:
@@ -16,7 +16,5 @@
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ---
-## the stuff that i think looks cool:
-[![QwertyRcode's GitHub stats](https://github-readme-stats.vercel.app/api?username=QwertyR0&show_icons=true&theme=dark&title_color=51c4d3)](https://github.com/QwertyR0/)
----
+## t:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QwertyR0&langs_count=8)](https://github.com/QwertyR0/)
