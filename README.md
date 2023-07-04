@@ -1,7 +1,5 @@
 # 👋Hello There!
 - **✨I Code For Fun At My Free Time.**
-- **📚I Currently Study a Lot.**
-- **📖My Goal is To Learn Java.**
 - [More About Me!](https://qwertyr0.github.io/Personal-Website/)
 ---
 ## 🧰Languages and Tools:
