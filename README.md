@@ -15,4 +15,4 @@
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QwertyR0&langs_count=8)](https://github.com/QwertyR0/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QwertyR0&langs_count=5)](https://github.com/QwertyR0/)
