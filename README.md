@@ -1,7 +1,10 @@
 # 👋Hello There!
 - **My projects are usually about FullStack Web Development, Node.JS and IoT Applications. I consider myself to be a 'Biology Enthusiast', I'm currently building a series of Ecological Tools that aim to improve mental modelling and conceptual visualization in learners (studying from textbooks like Ecology: Concepts and Applications, Concepts of Genetics by S. Klug, R. Cummings...) such as myself.**
+- I attend game jams, While it’s not my main strength, I managed to secure first place with [my team](https://github.com/Hammer-Drill-Games) at an on-site event.
+Here are some the games I worked on: [Tonguer](https://k-lemon.itch.io/tonguer), [16! Platformer](https://qwertyr0.itch.io/16-platformer), [Slice Sizzle Showdown](https://qwertyr0.itch.io/sliced)
 - Additionally, I'm working on some projects involving homemade 4/8 Bit computers, both physically and virtually.
-- I build websites for organizations and events. My latest website, created together with [lilstone602](https://github.com/lilstone602), can be found here:  **[veriolimpiyati.com](https://veriolimpiyati.com/)**
+- Regarding my work, not as a hobby, I build websites for organizations and events. My latest website, created together with [lilstone602](https://github.com/lilstone602), can be found here: **[veriolimpiyati.com](https://veriolimpiyati.com/)**
+- [itch.io profile](https://qwertyr0.itch.io/)
 - [More About Me!](https://qwertyr0.github.io/Personal-Website/)
 ---
 ## 🧰Languages and Tools:
