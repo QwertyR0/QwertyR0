@@ -1,5 +1,8 @@
 # 👋Hello There!
-- **✨I Code For Fun At My Free Time.**
+- **My projects are usually about FullStack Web Development, Node.JS and IoT Applications. I consider myself to be a 'Biology Enthusiast', I'm currently building a series of Ecological Tools that aim to improve mental modelling and conceptual visualization in learners (studying from textbooks like Ecology: Concepts and Applications, Concepts of Genetics by S. Klug, R. Cummings...) such as myself.**
+- Additionally, I'm working on some projects involving homemade 4/8 Bit computers, both physically and virtually.
+- I build websites for organizations and events. My latest website, created together with [lilstone602](https://github.com/lilstone602), can be found here:  
+https://veriolimpiyati.com/
 - [More About Me!](https://qwertyr0.github.io/Personal-Website/)
 ---
 ## 🧰Languages and Tools:
@@ -13,5 +16,3 @@
 ## 🧪 Languages Currently Learning:
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
----
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QwertyR0&langs_count=5)](https://github.com/QwertyR0/)
