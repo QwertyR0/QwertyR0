@@ -1,8 +1,7 @@
 # 👋Hello There!
 - **My projects are usually about FullStack Web Development, Node.JS and IoT Applications. I consider myself to be a 'Biology Enthusiast', I'm currently building a series of Ecological Tools that aim to improve mental modelling and conceptual visualization in learners (studying from textbooks like Ecology: Concepts and Applications, Concepts of Genetics by S. Klug, R. Cummings...) such as myself.**
 - Additionally, I'm working on some projects involving homemade 4/8 Bit computers, both physically and virtually.
-- I build websites for organizations and events. My latest website, created together with [lilstone602](https://github.com/lilstone602), can be found here:  
-https://veriolimpiyati.com/
+- I build websites for organizations and events. My latest website, created together with [lilstone602](https://github.com/lilstone602), can be found here:  **[veriolimpiyati.com](https://veriolimpiyati.com/)**
 - [More About Me!](https://qwertyr0.github.io/Personal-Website/)
 ---
 ## 🧰Languages and Tools:
